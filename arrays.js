@@ -13,4 +13,6 @@ function addElementToTheEndOfArray(arr,element) {
   
 }
 
-function 
+function destructivelyAddElementToEndOfArray(arr,element){
+  
+}
